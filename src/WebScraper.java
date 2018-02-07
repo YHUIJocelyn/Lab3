@@ -34,7 +34,7 @@ public class WebScraper {
                 count++;
             }
         }
-        return 0;
+        return count;
     }
 
 
